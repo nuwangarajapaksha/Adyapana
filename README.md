@@ -1,2 +1,2 @@
 # Adyapana
-A Project of first year Software Application Development module.
+A Project of a first year Software Application Development module.
